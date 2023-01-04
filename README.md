@@ -1,7 +1,7 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 <h1 align="center">Hi 👋, I'm Lorenzo Cárdenas</h1>
 <h3 align="center">A passionate Data Scientist from Mexico</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*tBpl-eS41qcfLe1a.gif">
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-4.gif">
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo1285&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo1285" /> </p>
 
