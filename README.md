@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo1285&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo1285" /> </p>
 
 - 🔭 I’m currently studying on [MSc. Artificial Intelligence and Machine Learning]([https://pypi.org/project/FinRatioAnalysis/])
+-  I'm currently studying on [MSc. Artificial Intelligence and Machine Learning](https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-machine-learning-msc)
+
 
 -   🌱 I’m currently learning **Databricks Machine Learning Framework**
 
