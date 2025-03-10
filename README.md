@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **lorenzo_cardenas@msn.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1p3nWmkJ__jHczIjFW26W0ENeGdc9ER6q/view?usp=sharing](https://drive.google.com/file/d/1FV0pYsY96EEkGIx9i4LLbqwme1JjBd62/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1FV0pYsY96EEkGIx9i4LLbqwme1JjBd62/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
