@@ -8,7 +8,7 @@
 - 🔭 I'm currently studying on [MSc. Artificial Intelligence and Machine Learning](https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-machine-learning-msc)
 
   
--   🌱 I’m currently learning **Databricks Machine Learning Framework**
+-   🌱 I’m currently learning **AI Agents ans MCP Server**
 
 - 👯 I’m looking to collaborate on **Data science and Machine Learning proyects**
 
