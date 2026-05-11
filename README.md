@@ -35,6 +35,9 @@ An MSc dissertation project using NEAT with Adaptive Operator Selection (AOS) fo
 A Python library for automated financial ratio analysis, including Altman Z-Score, WACC, and liquidity metrics.
 `pip install FinRatioAnalysis`
 
+#### [Crash Severity Classification](https://github.com/lorenzo1285/mlops-portfolio)
+A production-style MLOps pipeline built on the City of Grand Rapids crash dataset.
+
 #### [MRI Image Segmentation](https://github.com/lorenzo1285/mriImageSegmentation)
 Computer Vision implementation using K-means clustering for medical image processing and segmentation.
 
