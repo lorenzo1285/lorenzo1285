@@ -58,4 +58,11 @@ Computer Vision implementation using K-means clustering for medical image proces
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:lorenzo_cardenas@msn.com)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lorenzo1285&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo1285&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="165" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lorenzo1285&theme=tokyonight&hide_border=true" />
+</p>
